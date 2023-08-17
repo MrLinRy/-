@@ -1,0 +1,12 @@
+- 运维(Operations and Maintenance，简称O&M) 的服务级别协议 (Service Level Agreement，简称SLA) 是一种合同或协议，用于定义供应商和客户之间的服务水平目标和责任。运维SLA涵盖了多个指标和要求，以确保服务供应商能够满足客户的期望。以下是一些常见的运维SLA指标:
+- **1. 可用性 (Availability) :** 测量系统或服务的正常运行时间，通常以百分比表示(如99.9%)。
+- **2. 故障恢复时间 (Mean Time to Repair，MTTR) :** 测量在发生故障时，系统或服务恢复正常运行所需的近月鹏湖宅杉∞亵手漏哎时间。
+- **3. 故障预防 (Fault Prevention) :** 指采取措施防止故障发生的能力，例如实施监控、维护和预防性维护等
+- **4.响应时间 (Response Time) :** 测量供应商对客户请求做出响应的时间，通常以小时或分钟为单位。
+- **5. 问题解决时间 (Mean Time to Resolve，MTTR) :** 衡量供应商解决问题所需的平均时间。
+- **6. 紧急事件响应时间 (Emergency lncident Response Time) :** 对于紧急事件，衡量供应商在接到报告后采取行动的时间。
+- **7. 升级和变更管理(Upgrade and Change Management) :** 涉及对系统进行升级、变更或补丁管理时，确保供应商在协商的时间范围内进行操作。
+- **8. 安全性和合规性 (Security and Compliance) :** 衡量供应商在安全性和合规性方面的遵守程度，例如数据保护、身份验证和合规要求等。
+- **9. 数据备份和恢复 (Data Backup and Recovery) :** 涉及供应商对数据进行定期备份和恢复的措施，以保证数据的完整性和可用性。
+- **10. 服务报告和沟通 (Service Reporting and Communication) :** 涉及供应商向客户提供定期的服务报告和沟通机制，以确保透明度和信息交流.
+-
