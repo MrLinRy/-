@@ -1,0 +1,14 @@
+- 1. 基本思路
+	- （1）方案一：基于GPT模型给模型设定人设信息，前置FAQ问答库、文章为知识，让GPT模型基于知识资料进行回复；
+	- （2）方案二：基于GPT模型进行二次训练
+		- 前期：根据业务场景训练语料
+		- 中期：训练模型
+			- 方案一：选择在线openAi提供的训练服务，需付费 [openAI训练付费表](https://openai.com/pricing)
+			- 方案二：搭建本地GPU集群跑本地大模型
+	- （3）方案三：搭建本地集群训练本地开源模型
+		- chatGLM: [清华chatGLM +本地知识库构建的方式](https://zhuanlan.zhihu.com/p/622717995)
+- 2. 其他：
+	- [ChatGPT安全风险 | 基于LLMs应用的Prompt注入攻击](https://mp.weixin.qq.com/s/zqddET82e-0eM_OCjEtVbQ)
+	- [聊天模型排行榜](https://chat.lmsys.org/?arena)
+	- [[LLaMa]]
+-
